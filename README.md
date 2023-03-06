@@ -20,8 +20,3 @@
 <h2>Contributing</h2>
 
 <p>If you find any bugs or issues with the program, feel free to open an issue on the GitHub repository.</p>
-
-<h2>License</h2>
-
-<p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
-
